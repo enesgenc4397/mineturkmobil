@@ -1,0 +1,993 @@
+<mobile (MineTürk Mobil[m.minetürk.com])
+
+<!DOCTYPE for mobile html>
+
+<!-- BEGIN html -->
+<html lang="tr-TR">
+
+<!-- BEGIN head -->
+<head>
+
+
+
+
+
+
+<Tasarim for AppsGeyser>
+<yenile>
+    <refresh for app>
+    <refresh for page>
+<Settings>
+    <Text:About>
+    <AppLink:Information about application>
+    <AppLink Destription:Developer info>     NOT:Bu not uygulama kodunda diğil şimdi yazım developer info da appsgeyser var fakat uygulama ordan yapılmadı uygulama tasarımını ordan aldım yoksa kod yazmazdım!!!!
+<Applink:Information about application:photo>
+    <appsgeyser-62936298462846236282.png for http://i.hizliresim/595jdh18538cvcgdcksfd.png>
+<Text:Build Version>
+    <Text Description:App version:0.1,Platform version : 1.104>
+<pay>
+    <command:share:phone>
+    <command:share:tablet>
+<hakkında>
+    <appsgeyser-62936298462846236282.png for http://i.hizliresim/595jdh18538cvcgdcksfd.png>
+<Çıkış>
+    <command:exit>
+    	
+    <!-- Meta Tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<!-- Title -->
+	<title>Mineturk.com &#8211; Minecraft Modları &#8211; Kaynak Paketleri &#8211; Minecraft indir</title>
+	
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="http://cdn.mineturk.com/wp-content/themes/scope/style.css" type="text/css" media="screen" />
+	
+	<!-- RSS & Pingbacks -->
+	<link rel="alternate" type="application/rss+xml" title="Mineturk.com &#8211; Minecraft Modları &#8211; Kaynak Paketleri &#8211; Minecraft indir RSS Feed" href="http://mineturk.com/feed/" />
+	<link rel="pingback" href="http://mineturk.com/xmlrpc.php" />
+
+	<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mineturk.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ytio-css-css'  href='http://cdn.mineturk.com/wp-content/plugins/youtube-information-widget/includes/style.css?ver=4.7.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://cdn.mineturk.com/wp-content/themes/scope/functions/js/twitter.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://cdn.mineturk.com/wp-content/themes/scope/js/jquery-ui-1.8.5.custom.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://cdn.mineturk.com/wp-content/plugins/easy-spoiler/js/easy-spoiler.js?ver=1.2'></script>
+<link rel='https://api.w.org/' href='http://mineturk.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mineturk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mineturk.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.5" />
+<link rel="canonical" href="http://mineturk.com/" />
+<link rel='shortlink' href='http://mineturk.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://mineturk.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmineturk.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://mineturk.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmineturk.com%2F&#038;format=xml" />
+<link type="text/css" rel="stylesheet" href="http://cdn.mineturk.com/wp-content/plugins/easy-spoiler/easy-spoiler.css" />		<style type="text/css"></style>
+	<style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><!-- Custom Styling -->
+<style type="text/css">
+.animated{-webkit-animation-fill-mode:both;-moz-animation-fill-mode:both;-ms-animation-fill-mode:both;-o-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:1s;-moz-animation-duration:1s;-ms-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s;}.animated.hinge{-webkit-animation-duration:2s;-moz-animation-duration:2s;-ms-animation-duration:2s;-o-animation-duration:2s;animation-duration:2s;}@-webkit-keyframes tada {
+	0% {-webkit-transform: scale(1);}	10%, 20% {-webkit-transform: scale(0.9) rotate(-3deg);}
+	30%, 50%, 70%, 90% {-webkit-transform: scale(1.1) rotate(3deg);}
+	40%, 60%, 80% {-webkit-transform: scale(1.1) rotate(-3deg);}
+	100% {-webkit-transform: scale(1) rotate(0);}
+}
+
+@-moz-keyframes tada {
+	0% {-moz-transform: scale(1);}	
+	10%, 20% {-moz-transform: scale(0.9) rotate(-3deg);}
+	30%, 50%, 70%, 90% {-moz-transform: scale(1.1) rotate(3deg);}
+	40%, 60%, 80% {-moz-transform: scale(1.1) rotate(-3deg);}
+	100% {-moz-transform: scale(1) rotate(0);}
+}
+
+@-o-keyframes tada {
+	0% {-o-transform: scale(1);}	
+	10%, 20% {-o-transform: scale(0.9) rotate(-3deg);}
+	30%, 50%, 70%, 90% {-o-transform: scale(1.1) rotate(3deg);}
+	40%, 60%, 80% {-o-transform: scale(1.1) rotate(-3deg);}
+	100% {-o-transform: scale(1) rotate(0);}
+}
+
+@keyframes tada {
+	0% {transform: scale(1);}	
+	10%, 20% {transform: scale(0.9) rotate(-3deg);}
+	30%, 50%, 70%, 90% {transform: scale(1.1) rotate(3deg);}
+	40%, 60%, 80% {transform: scale(1.1) rotate(-3deg);}
+	100% {transform: scale(1) rotate(0);}
+}
+
+.tada:hover {
+	-webkit-animation-name: tada;
+	-moz-animation-name: tada;
+	-o-animation-name: tada;
+	animation-name: tada;
+}
+
+.authorbox{width:620px;height:140px;background:#CCC;font-family:verdana;font-size:13px;background-color:#FAFAFA;border:1px solid #F0F0F0;margin-bottom: 20px;}
+.left{float:left;width:70px;height:100px;margin:25px;}
+.right{float:left;margin-top:25px;width:425px;}
+.right p {margin: 0px;}
+</style>
+<link rel="shortcut icon" href="http://cdn.mineturk.com/wp-content/uploads/2014/01/favicon.ico"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(255,255,255,.88);}</style>
+<!-- END head -->
+</head>
+
+<!-- BEGIN body -->
+<body class="home page-template page-template-yeniana page-template-yeniana-php page page-id-3936 gecko layout-2cr">
+
+    <img id="background" src="http://cdn.mineturk.com/wp-content/uploads/2015/04/arkaplan-yarisma.png" alt="Mineturk" />
+	<!-- BEGIN #container -->
+	<div id="container">
+	
+	            
+		<!-- BEGIN #header -->
+		<div id="header" class="clearfix">
+
+			<!-- BEGIN #logo -->
+			<div id="logo">
+
+						    <a href="http://mineturk.com"><img src="http://cdn.mineturk.com/wp-content/uploads/2013/04/logob2.png" alt="Mineturk.com &#8211; Minecraft Modları &#8211; Kaynak Paketleri &#8211; Minecraft indir" class="animated tada" /></a>
+							
+
+			<!-- END #logo -->
+			</div>
+			
+			
+			<!-- BEGIN #primary-nav -->
+    		<div id="primary-nav">
+    			    			<div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-224"><a href="http://mineturk.com/minecraft-modlari/">Minecraft Modları</a></li>
+<li id="menu-item-6657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6657"><a href="http://mineturk.com/minecraft-kaynak-paketleri/">Minecraft Kaynak Paketleri</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132"><a href="http://mineturk.com/nasil-yapilir/">Nasıl Yapılır?</a></li>
+<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a href="http://mineturk.com/minecraft-indir/">Minecraft İndir</a></li>
+<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-854"><a href="http://mineturk.com/esya-tarifleri/">Eşya Tarifleri</a></li>
+</ul></div>    			    		<!-- END #primary-nav -->
+    		</div>
+    		
+		<!--END #header-->
+		</div>
+<div style="margin-top: 5px;">		
+<script>
+  (function() {
+    var cx = 'partner-pub-6757814387662090:4716696650';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+
+<!--<div style="background-color: #fff; text-align: center; padding-top: 5px; padding-bottom: 5px;">
+	<a href="http://mineturk.com/mineturk-odullu-bu-arkaplan-benim-yarismasi/"><img src="http://mineturk.com/bu-arkaplan-benim.gif"></a>
+</div>-->
+		<!--BEGIN #content -->
+		<div id="content" class="clearfix">
+<div class="top-responsive-ads">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- deli-esnek -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6757814387662090"
+     data-ad-slot="2864592655"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+			<!--BEGIN #primary .hfeed-->
+			<div id="lastadded_primary" class="hfeed">
+						<div class="lastadded_content">
+			<h2 class="orange"><a href="http://mineturk.com/minecraft-modlari/">Minecraft Modları</a></h2>
+			
+
+
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+						                            							<div class="post_left">
+								<a href="http://mineturk.com/replay-modu/" title="Permanent link to Replay Modu" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/02/Re-Play-300x179.png" title="Replay Modu" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/replay-modu/" title="Permanent link to Replay Modu"><strong>Replay Modu [1.11.2/1.11/1.10.2]</strong></a><br /><br />
+								
+
+
+
+Bu mod ile, minecraft oynarken çeşitli özelliklerde video kaydı yapabiliyorsunuz, bu kaydı o...								<br /><br /><strong>Uyumluluk:</strong> <span class="uyumluluk_color">1.11.2, 1.11, 1.10.2... </span><strong>Yapımcı:</strong> <span class="uyumluluk_color">CrushedPixel, johni0702</span>							</div>
+
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+
+
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+						                                                        <div class="installer-ribbon"></div>
+                            							<div class="post_left">
+								<a href="http://mineturk.com/dragon-mounts-modu/" title="Permanent link to Dragon Mounts Modu" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/04/Dragon-Mounts-Mod-1024x576-300x169.jpg" title="Dragon Mounts Modu" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/dragon-mounts-modu/" title="Permanent link to Dragon Mounts Modu"><strong>Dragon Mounts Modu [1.10.2/1.9.4/1.9]</strong></a><br /><br />
+								
+
+
+
+Dragon Mounts Modu ejderhaları büyütmenizi, evcilleştirmenizi ve onlarla uçmanızı sağlıyor. ...								<br /><br /><strong>Uyumluluk:</strong> <span class="uyumluluk_color">1.10.2, 1.9.4, 1.9... </span><strong>Yapımcı:</strong> <span class="uyumluluk_color">BarracudaATA</span>							</div>
+
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+
+
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+						                            							<div class="post_left">
+								<a href="http://mineturk.com/optifine-hd-modu/" title="Permanent link to OptiFine HD Modu" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2013/06/optifinehdmod-300x165.png" title="OptiFine HD Modu" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/optifine-hd-modu/" title="Permanent link to OptiFine HD Modu"><strong>OptiFine HD Modu [1.11.2/1.11/1.10.2]</strong></a><br /><br />
+								
+
+OptiFine HD Nedir?
+
+Bu mod Minecraft'a HD kaynak ve doku paketleri yüklemenizi ve oyundaki don...								<br /><br /><strong>Uyumluluk:</strong> <span class="uyumluluk_color">1.11.2, 1.11, 1.10.2... </span><strong>Yapımcı:</strong> <span class="uyumluluk_color">sp614x</span>							</div>
+
+
+					</div>
+
+				<!--END .hentry-->
+
+							</div>
+
+
+<br/>
+						<div class="lastadded_content">
+			<h2 class="orange"><a href="http://mineturk.com/minecraft-haritalari/">Minecraft Haritaları</a></h2>
+			
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/mendile-ihtiyac-var-haritasi/" title="Permanent link to Mendile İhtiyaç Var Haritası" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/05/mendile-ihtiyac-var-logo-300x194.png" title="Mendile İhtiyaç Var Haritası" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/mendile-ihtiyac-var-haritasi/" title="Permanent link to Mendile İhtiyaç Var Haritası"><strong>Mendile İhtiyaç Var Haritası [1.8.8]</strong></a><br /><br />
+								
+
+
+
+Abdullah Ayberk Türkmen tarafından yapılıp sitemize gönderilmiş iyi bir parkur haritası.
+
+...								<br /><br /><strong>Uyumluluk:</strong> <span class="uyumluluk_color">1.8.8... </span><strong>Yapımcı:</strong> <span class="uyumluluk_color">Abdullah Ayberk Türkmen</span>							</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/orman-laneti-haritasi/" title="Permanent link to Orman Laneti Haritası" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/05/orman-laneti-logo-300x194.png" title="Orman Laneti Haritası" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/orman-laneti-haritasi/" title="Permanent link to Orman Laneti Haritası"><strong>Orman Laneti Haritası [1.8.7]</strong></a><br /><br />
+								
+
+
+
+Orman Laneti Beryak Çelebi ve Ali Emre Oytun tarafından yapılıp sitemize gönderilmiş bir kor...								<br /><br /><strong>Uyumluluk:</strong> <span class="uyumluluk_color">1.8.7... </span><strong>Yapımcı:</strong> <span class="uyumluluk_color">Berkay Çelebi ve Ali Emre Oytun</span>							</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/weird-floor-haritasi/" title="Permanent link to Weird Floor Haritası" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/05/Weird-Floor-Map-300x169.jpg" title="Weird Floor Haritası" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/weird-floor-haritasi/" title="Permanent link to Weird Floor Haritası"><strong>Weird Floor Haritası [1.10.2]</strong></a><br /><br />
+								
+
+
+
+44 farklı döşemeye sahip oda ve her oda size karşı birşeyler yapıyor. Her odayı bu zorlu döş...								<br /><br /><strong>Uyumluluk:</strong> <span class="uyumluluk_color">1.10.2... </span><strong>Yapımcı:</strong> <span class="uyumluluk_color">Magitrop</span>							</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+							</div>
+			
+
+<br/>
+						<div class="lastadded_content">
+			<h2 class="red"><a href="http://mineturk.com/minecraft-komutlari/">Minecraft Komutları</a></h2>
+			
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/overpowered-tools-kodu/" title="Permanent link to OverPowered Tools Kodu" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/09/jBNnWj-3-300x167.png" title="OverPowered Tools Kodu" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/overpowered-tools-kodu/" title="Permanent link to OverPowered Tools Kodu"><strong>OverPowered Tools Kodu </strong></a><br /><br />
+								
+
+Merhaba, yeni "only one command" serisinin üçüncü komutu ile karşınızdayım. Bence bu komut hepin...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/seytani-canavarlar-komutu/" title="Permanent link to Şeytani Canavarlar Komutu" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/04/ilginc-komutlar-seytani-canavarlar-300x169.png" title="Şeytani Canavarlar Komutu" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/seytani-canavarlar-komutu/" title="Permanent link to Şeytani Canavarlar Komutu"><strong>Şeytani Canavarlar Komutu </strong></a><br /><br />
+								
+
+
+
+Mineturk sohbette takılanların yakından tanıyacağı ⓚⓞⓜⓤⓣ tarafından gönderilmiş bir komut bl...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/playable-piano-komutu/" title="Permanent link to Playable Piano Komutu" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/01/playebla-piano-mod-300x170.jpg" title="Playable Piano Komutu" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/playable-piano-komutu/" title="Permanent link to Playable Piano Komutu"><strong>Playable Piano Komutu [1.8]</strong></a><br /><br />
+								
+
+
+
+Merhaba arkadaşlar, yeni kategorimizin ikinci komutu da sonunda geldi. Bu komut ile sizinde ...								<br /><br /><strong>Uyumluluk:</strong> <span class="uyumluluk_color">1.8... </span><strong>Yapımcı:</strong> <span class="uyumluluk_color">TheRedEngineer</span>							</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+						</div>
+
+<br/>
+						<div class="lastadded_content">
+			<h2 class="red"><a href="http://mineturk.com/minecraft-kaynak-paketleri/">Minecraft Kaynak Paketleri</a></h2>
+			
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/pack-nation-70k-animasyonlu-pvp-kaynak-paketi/" title="Permanent link to Pack Nation 70k Animasyonlu PvP Kaynak Paketi" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/02/70K-Animated-PvP-Resource-Pack-Logo-300x169.jpg" title="Pack Nation 70k Animasyonlu PvP Kaynak Paketi" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/pack-nation-70k-animasyonlu-pvp-kaynak-paketi/" title="Permanent link to Pack Nation 70k Animasyonlu PvP Kaynak Paketi"><strong>Pack Nation 70k Animasyonlu PvP Kaynak Paketi </strong></a><br /><br />
+								 
+
+
+Youtube'un en büyük kaynak paketi inceleme kanalı sonunda Pack Nation 70k Animasyonlu PvP Kay...								<br /><br /><strong>Yapımcı:</strong> <span class="uyumluluk_color">Jaba</span>							</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/sugarpack-kaynak-paketi/" title="Permanent link to Sugarpack Kaynak Paketi" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/10/nE6EJ5-1-300x225.jpg" title="Sugarpack Kaynak Paketi" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/sugarpack-kaynak-paketi/" title="Permanent link to Sugarpack Kaynak Paketi"><strong>Sugarpack Kaynak Paketi </strong></a><br /><br />
+								
+
+
+
+Her ne kadar biraz eskimsi grafiklere sahip olsada, yine de hoş ve can açıcı bir kaynak pake...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/norzeteus-space-kaynak-paketi/" title="Permanent link to Norzeteus Space Kaynak Paketi" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/05/v50gYA-300x156.png" title="Norzeteus Space Kaynak Paketi" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/norzeteus-space-kaynak-paketi/" title="Permanent link to Norzeteus Space Kaynak Paketi"><strong>Norzeteus Space Kaynak Paketi </strong></a><br /><br />
+								
+
+
+
+Tek kelime ile inanılmaz bir kaynak paketi, resmen aşığı olmuş durumdayım. Gerçekten uzayı s...								<br /><br /><strong>Yapımcı:</strong> <span class="uyumluluk_color">Norzeteus</span>							</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+							</div>
+			
+<br/>
+						<div class="lastadded_content">
+			<h2 class="red"><a href="http://mineturk.com/minecraft-skin/">Minecraft Skinleri</a></h2>
+			
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/chica-bonita-skini/" title="Permanent link to Chica Bonita Skini" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/04/Chica-bonita-300x182.png" title="Chica Bonita Skini" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/chica-bonita-skini/" title="Permanent link to Chica Bonita Skini"><strong>Chica Bonita Skini </strong></a><br /><br />
+								
+Chica Bonita Skin
+
+Chica Bonita Skinini indirmek ve Minecraft'ta kullanmak için yazının devamını okuyabilirsiniz.
+
+Chica Bonita Skini Nasıl Yükl...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/geilon-skini/" title="Permanent link to Geilon Skini" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2017/04/Geilon-300x182.png" title="Geilon Skini" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/geilon-skini/" title="Permanent link to Geilon Skini"><strong>Geilon Skini </strong></a><br /><br />
+								
+Geilon Skin
+
+Geilon Skinini indirmek ve Minecraft'ta kullanmak için yazının devamını okuyabilirsiniz.
+
+Geilon Skini Nasıl Yüklenir?
+
+ 	İlk önc...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/garroth-school-skini/" title="Permanent link to Garroth School Skini" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/03/Garroth-school-300x182.png" title="Garroth School Skini" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/garroth-school-skini/" title="Permanent link to Garroth School Skini"><strong>Garroth School Skini </strong></a><br /><br />
+								
+Garroth School Skin
+
+Garroth School Skinini indirmek ve Minecraft'ta kullanmak için yazının devamını okuyabilirsiniz.
+
+ (daha&helliip;)...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+							</div>
+			
+
+<br/>
+						<div class="lastadded_content">
+			<h2 class="orange"><a href="http://mineturk.com/nasil-yapilir/">Minecraft Rehberleri</a></h2>
+			
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/ore-spawn-modu-esya-tarifleri/" title="Permanent link to Ore Spawn Modu Eşya Tarifleri" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/12/Orespawn-mod-300x169.png" title="Ore Spawn Modu Eşya Tarifleri" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/ore-spawn-modu-esya-tarifleri/" title="Permanent link to Ore Spawn Modu Eşya Tarifleri"><strong>Ore Spawn Modu Eşya Tarifleri </strong></a><br /><br />
+								
+
+Ore Spawn Mod Eşya Tarifleri
+
+En çok sevilen modlardan biri olan Ore Spawn Mod tariflerini bu sayfada bulabilirsiniz. Çok fazla mod oldukları iç...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/komut-blogu-ile-creative-modu-engeli/" title="Permanent link to Komut Bloğu ile Creative Modu Engeli" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2015/06/kk52MA-300x169.png" title="Komut Bloğu ile Creative Modu Engeli" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/komut-blogu-ile-creative-modu-engeli/" title="Permanent link to Komut Bloğu ile Creative Modu Engeli"><strong>Komut Bloğu ile Creative Modu Engeli </strong></a><br /><br />
+								
+
+Herkese Merhaba,
+
+Bu dersimizde sizlere her haritada muhakkak ki olması gerektiğini düşündüğüm bir devreyi , yöntemi göstereceğim. Elbetteki baz...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+							</div>
+			
+
+<br/>
+						<div class="lastadded_content">
+			<h2 class="orange"><a href="http://mineturk.com/minecraft-haberleri/">Minecraft Haberleri</a></h2>
+			
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/minecraft-1-11-cikti/" title="Permanent link to Minecraft 1.11 Çıktı" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/11/maxresdefault-300x169.jpg" title="Minecraft 1.11 Çıktı" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/minecraft-1-11-cikti/" title="Permanent link to Minecraft 1.11 Çıktı"><strong>Minecraft 1.11 Çıktı </strong></a><br /><br />
+								
+
+Minecraft 1.11 İndir
+
+Minecon 2016'da Mojang birçok yeniliklerin müjdesini vermiş ve yeni sürüm tanıtımı yapmıştı. Sonunda 1.11 sürümünün finali...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+				
+				<!--BEGIN .hentry -->
+
+					<div class="son_paper h80 full">
+
+													<div class="post_left">
+								<a href="http://mineturk.com/minecraft-1-10-2-cikti/" title="Permanent link to Minecraft 1.10.2 Çıktı" class="no_border"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/06/Minecraft-1.10.2-300x168.jpg" title="Minecraft 1.10.2 Çıktı" style="width: 150px; height: 95px;"/></a>
+							</div>
+							<div class="post_right">
+								<a href="http://mineturk.com/minecraft-1-10-2-cikti/" title="Permanent link to Minecraft 1.10.2 Çıktı"><strong>Minecraft 1.10.2 Çıktı </strong></a><br /><br />
+								
+
+Minecraft 1.10.2 İndir
+
+Minecraft 1.10.2 sürümü 23 Haziran 2016'da yayınlandı. 1.10.1 de bulunan dünyaların yüklenmesi sırasında oyunun crash ol...															</div>
+
+					</div>
+
+				<!--END .hentry-->
+
+							</div>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						<!--END #primary .hfeed-->
+			</div>
+
+		<!--BEGIN #sidebar .aside-->
+		<div id="lastadded_sidebar" class="aside">
+						<div id="text-3" class="widget widget_text">			<div class="textwidget"><div align="center">
+<a href="http://minecraftserverlari.com/" title="Minecraft Türk Serverları" target="_blank"><img src="http://cdn.mineturk.com/wp-content/uploads/2013/08/minecraftturkserverlari.png" class="animated tada" /></a><br /><br /><a href="http://mineturk.com/haritani-gonder/" title="Haritanı Gönder Yayınlayalım"><img src="http://cdn.mineturk.com/wp-content/uploads/2014/05/haritani-gonder.png" class="animated tada" /></a><br /><br />
+<!--<a href="http://mineturk.com/editor-yazar-alimlari/" title="Editör Yazar Alımları"><img src="http://cdn.mineturk.com/wp-content/uploads/2014/11/mineturk-yazar-alimlari.png" class="animated tada" /></a><br /><br />-->
+<!--<a href="http://bolfirsat.com" title="Sıcak Fırsatlar"><img src="http://cdn.mineturk.com/wp-content/uploads/2016/01/sicak-firsatlar.png" class="animated tada" /></a><br /><br />-->
+İnceleme Bekleyen Harita Sayısı: <strong>16</strong>
+<!--- <a href="http://mineturk.com/editorol/" title="Editör Ol"><img src="http://cdn.mineturk.com/wp-content/uploads/2013/05/editorolun.png" class="animated tada" /></a> -->
+</div></div>
+		</div><div id="text-6" class="widget widget_text"><h3 class="widget-title"><span>Sohbet</span></h3>			<div class="textwidget"><script type="text/javascript" src="//www3.yourshoutbox.com/shoutbox/start.php?key=756376555"></script></div>
+		</div><div id="liteyiw_widget-2" class="widget widget_liteyiw_widget"><h3 class="widget-title"><span>Mineturk Youtube Kanalı</span></h3>				<div id="ytio-container">
+			<div id="ytio-avatar">
+				<div id="ytio-left" class="inline">
+					<a href="https://youtube.com/channel//" title="">
+						<img src="" height="90" width="90" alt="" />
+					</a>
+				</div>
+				<div id="ytio-right" class="inline">
+					<a href="https://youtube.com/channel//">
+						<span></span>
+					</a><br class="clear" />
+					
+			<script src="https://apis.google.com/js/platform.js"></script>
+			<div class="g-ytsubscribe" data-channelid="" data-layout="default" data-count="default">
+				<a href="https://youtube.com/channel//?sub_confirmation=1">subscribe</a>
+			</div>
+						</div>
+			</div>
+
+			<div id="ytio-uploads">
+				<div id="ytio-switch">
+					<span id="sw-st-240"  onclick="this.setAttribute('class','active'),document.getElementById('sw-nd-240').setAttribute('class',''),document.getElementById('sw-rd-240').setAttribute('class',''),document.getElementById('ytio-last-uploads-240').setAttribute('class',''),document.getElementById('ytio-popular-uploads-240').setAttribute('class','ytio-hid'),document.getElementById('ytio-stats-240').setAttribute('class','ytio-hid');" class="active">
+						Recent					</span>
+					<span id="sw-nd-240" onclick="this.setAttribute('class','active'),document.getElementById('sw-st-240').setAttribute('class',''),document.getElementById('sw-rd-240').setAttribute('class',''),document.getElementById('ytio-popular-uploads-240').setAttribute('class',''),document.getElementById('ytio-last-uploads-240').setAttribute('class','ytio-hid'),document.getElementById('ytio-stats-240').setAttribute('class','ytio-hid');">
+						Popular					</span>
+					<span id="sw-rd-240" onclick="this.setAttribute('class','active'),document.getElementById('sw-st-240').setAttribute('class',''),document.getElementById('sw-nd-240').setAttribute('class',''),document.getElementById('ytio-stats-240').setAttribute('class',''),document.getElementById('ytio-last-uploads-240').setAttribute('class','ytio-hid'),document.getElementById('ytio-popular-uploads-240').setAttribute('class','ytio-hid');">
+						Info					</span>
+				</div>
+				<div style="padding: 1em;">
+					<div id="ytio-last-uploads-240">
+						<p>Apologize, nothing found for this channel.</p>					</div>
+					<div id="ytio-popular-uploads-240" class="ytio-hid">
+						<p>Apologize, nothing found for this channel.</p>					</div>
+					<div id="ytio-stats-240" class="ytio-hid">
+						<p>Apologize, nothing found for this channel.</p>					</div>
+				</div>
+			</div>
+		</div>
+	</div><div id="categories-2" class="widget widget_categories"><h3 class="widget-title"><span>Kategoriler</span></h3>		<ul>
+	<li class="cat-item cat-item-114"><a href="http://mineturk.com/minecraft-araclari/" >Minecraft Araçları</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://mineturk.com/minecraft-doku-paketleri/" >Minecraft Doku Paketleri</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://mineturk.com/minecraft-haberleri/" >Minecraft Haberleri</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://mineturk.com/minecraft-haritalari/" >Minecraft Haritaları</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="http://mineturk.com/minecraft-kaynak-paketleri/" title="Minecraft&#039;ta dokuları, sesleri ve müzikleri değiştiren kaynak paketleri sadece mineturk.com&#039;da...">Minecraft Kaynak Paketleri</a>
+</li>
+	<li class="cat-item cat-item-1966"><a href="http://mineturk.com/minecraft-komutlari/" >Minecraft Komutları</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://mineturk.com/minecraft-modlari/" >Minecraft Modları</a>
+<ul class='children'>
+	<li class="cat-item cat-item-2205"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-10-modlari/" >Minecraft 1.10 Modları</a>
+</li>
+	<li class="cat-item cat-item-2221"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-10-2-modlari/" >Minecraft 1.10.2 Modları</a>
+</li>
+	<li class="cat-item cat-item-2270"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-11-modlari/" >Minecraft 1.11 Modları</a>
+</li>
+	<li class="cat-item cat-item-2300"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-11-2-modlari/" >Minecraft 1.11.2 Modları</a>
+</li>
+	<li class="cat-item cat-item-482"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-6-4-modlari/" title="Minecraft&#039;ın en çok kullanılan sürümlerinden biri olan 1.6.4 için modlar burada.">Minecraft 1.6.4 Modları</a>
+</li>
+	<li class="cat-item cat-item-975"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-7-10-modlari/" >Minecraft 1.7.10 Modları</a>
+</li>
+	<li class="cat-item cat-item-481"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-7-2-modlari/" title="Minecraft 1.7.2 sürümü için tüm modlar buradaki kategoride.">Minecraft 1.7.2 Modları</a>
+</li>
+	<li class="cat-item cat-item-1430"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-8-modlari/" >Minecraft 1.8 Modları</a>
+</li>
+	<li class="cat-item cat-item-2019"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-8-8-modlari/" >Minecraft 1.8.8 Modları</a>
+</li>
+	<li class="cat-item cat-item-2020"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-8-9-modlari/" >Minecraft 1.8.9 Modları</a>
+</li>
+	<li class="cat-item cat-item-2076"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-9-modlari/" title="Minecraft 1.9 modlarını bu başlık altında bulabilirsiniz. En son çıkan minecraft 1.9 modlarını buradan indirebilirsiniz.">Minecraft 1.9 Modları</a>
+</li>
+	<li class="cat-item cat-item-2178"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-9-4-modlari/" >Minecraft 1.9.4 Modları</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-857"><a href="http://mineturk.com/minecraft-skin/" title="Minecraft&#039;ta görünümüzü değiştirmenizi sağlayan Skinleri buradan ücretsiz indirebilirsiniz.">Minecraft Skinleri</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://mineturk.com/minecraft-videolari/" >Minecraft Videoları</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://mineturk.com/nasil-yapilir/" >Nasıl Yapılır</a>
+</li>
+		</ul>
+</div><div id="text-4" class="widget widget_text"><h3 class="widget-title"><span>Dost Siteler</span></h3>			<div class="textwidget"><a href="http://www.minecraftserverfinder.com" title="Minecraft Server Finder" target="_blank">Minecraft Server Finder</a><br />
+<a href="http://minepick.com" title="The MinePick List" target="_blank">The MinePick List</a><br />
+<a href="http://MinecraftXL.com" title="MinecraftXL.com" target="_blank">MinecraftXL</a><br /></div>
+		</div>
+
+		<!--END #sidebar .aside-->
+		</div>
+
+		<!-- END #content -->
+			<div class="footer-responsive-ads">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- deli-esnek -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-6757814387662090"
+					 data-ad-slot="2864592655"
+					 data-ad-format="auto"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+
+		</div>
+
+
+		
+    				
+		<!-- BEGIN #footer -->
+		<div id="footer" class="clearfix">
+		    <!-- BEGIN .footer-left -->
+<div class="footer-left">
+    <div id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title"><span>Etiketler</span></h3><div class="tagcloud"><a href='http://mineturk.com/tag/1-4-7/' class='tag-link-38 tag-link-position-1' title='53 konu' style='font-size: 13.0784313725pt;'>1.4.7</a>
+<a href='http://mineturk.com/tag/1-5/' class='tag-link-36 tag-link-position-2' title='34 konu' style='font-size: 10.4705882353pt;'>1.5</a>
+<a href='http://mineturk.com/tag/1-5-1/' class='tag-link-35 tag-link-position-3' title='86 konu' style='font-size: 15.9607843137pt;'>1.5.1</a>
+<a href='http://mineturk.com/tag/1-5-2/' class='tag-link-52 tag-link-position-4' title='169 konu' style='font-size: 19.9411764706pt;'>1.5.2</a>
+<a href='http://mineturk.com/tag/1-6-1/' class='tag-link-119 tag-link-position-5' title='25 konu' style='font-size: 8.6862745098pt;'>1.6.1</a>
+<a href='http://mineturk.com/tag/1-6-2/' class='tag-link-124 tag-link-position-6' title='176 konu' style='font-size: 20.2156862745pt;'>1.6.2</a>
+<a href='http://mineturk.com/tag/1-6-4/' class='tag-link-250 tag-link-position-7' title='108 konu' style='font-size: 17.3333333333pt;'>1.6.4</a>
+<a href='http://mineturk.com/tag/1-7-2/' class='tag-link-288 tag-link-position-8' title='39 konu' style='font-size: 11.2941176471pt;'>1.7.2</a>
+<a href='http://mineturk.com/tag/1-7-4/' class='tag-link-331 tag-link-position-9' title='36 konu' style='font-size: 10.8823529412pt;'>1.7.4</a>
+<a href='http://mineturk.com/tag/16px/' class='tag-link-56 tag-link-position-10' title='29 konu' style='font-size: 9.64705882353pt;'>16px</a>
+<a href='http://mineturk.com/tag/32px/' class='tag-link-70 tag-link-position-11' title='27 konu' style='font-size: 9.23529411765pt;'>32px</a>
+<a href='http://mineturk.com/tag/64px/' class='tag-link-69 tag-link-position-12' title='28 konu' style='font-size: 9.37254901961pt;'>64px</a>
+<a href='http://mineturk.com/tag/ada-haritasi/' class='tag-link-333 tag-link-position-13' title='22 konu' style='font-size: 8pt;'>ada haritası</a>
+<a href='http://mineturk.com/tag/doku-paketi/' class='tag-link-186 tag-link-position-14' title='36 konu' style='font-size: 10.8823529412pt;'>doku paketi</a>
+<a href='http://mineturk.com/tag/gercekci-kaynak-paketi/' class='tag-link-223 tag-link-position-15' title='22 konu' style='font-size: 8pt;'>gerçekçi kaynak paketi</a>
+<a href='http://mineturk.com/tag/harita/' class='tag-link-42 tag-link-position-16' title='28 konu' style='font-size: 9.37254901961pt;'>harita</a>
+<a href='http://mineturk.com/tag/hd-kaynak-paketi/' class='tag-link-244 tag-link-position-17' title='24 konu' style='font-size: 8.54901960784pt;'>hd kaynak paketi</a>
+<a href='http://mineturk.com/tag/ilerlemeli-harita/' class='tag-link-934 tag-link-position-18' title='52 konu' style='font-size: 12.9411764706pt;'>ilerlemeli harita</a>
+<a href='http://mineturk.com/tag/kaynak-paketi/' class='tag-link-168 tag-link-position-19' title='61 konu' style='font-size: 13.9019607843pt;'>kaynak paketi</a>
+<a href='http://mineturk.com/tag/macera-haritasi/' class='tag-link-625 tag-link-position-20' title='89 konu' style='font-size: 16.0980392157pt;'>macera haritası</a>
+<a href='http://mineturk.com/tag/map/' class='tag-link-41 tag-link-position-21' title='74 konu' style='font-size: 15.137254902pt;'>map</a>
+<a href='http://mineturk.com/tag/minecraft-1-6-2-modlari/' class='tag-link-712 tag-link-position-22' title='29 konu' style='font-size: 9.64705882353pt;'>minecraft 1.6.2 modları</a>
+<a href='http://mineturk.com/tag/minecraft-1-6-4/' class='tag-link-249 tag-link-position-23' title='30 konu' style='font-size: 9.78431372549pt;'>minecraft 1.6.4</a>
+<a href='http://mineturk.com/tag/minecraft-1-6-4-modlari-2/' class='tag-link-706 tag-link-position-24' title='58 konu' style='font-size: 13.6274509804pt;'>minecraft 1.6.4 modları</a>
+<a href='http://mineturk.com/tag/minecraft-1-7-2/' class='tag-link-295 tag-link-position-25' title='55 konu' style='font-size: 13.3529411765pt;'>minecraft 1.7.2</a>
+<a href='http://mineturk.com/tag/minecraft-1-7-2-modlari-2/' class='tag-link-711 tag-link-position-26' title='104 konu' style='font-size: 17.0588235294pt;'>minecraft 1.7.2 modları</a>
+<a href='http://mineturk.com/tag/minecraft-1-7-10-modlari-2/' class='tag-link-989 tag-link-position-27' title='176 konu' style='font-size: 20.2156862745pt;'>minecraft 1.7.10 modları</a>
+<a href='http://mineturk.com/tag/minecraft-1-8-modlari/' class='tag-link-1448 tag-link-position-28' title='51 konu' style='font-size: 12.9411764706pt;'>minecraft 1.8 modları</a>
+<a href='http://mineturk.com/tag/minecraft-harita-indir/' class='tag-link-1809 tag-link-position-29' title='59 konu' style='font-size: 13.7647058824pt;'>minecraft harita indir</a>
+<a href='http://mineturk.com/tag/minecraft-haritalari-2/' class='tag-link-733 tag-link-position-30' title='216 konu' style='font-size: 21.4509803922pt;'>minecraft haritaları</a>
+<a href='http://mineturk.com/tag/minecraft-haritasi/' class='tag-link-729 tag-link-position-31' title='104 konu' style='font-size: 17.0588235294pt;'>minecraft haritası</a>
+<a href='http://mineturk.com/tag/minecraft-map/' class='tag-link-771 tag-link-position-32' title='56 konu' style='font-size: 13.4901960784pt;'>minecraft map</a>
+<a href='http://mineturk.com/tag/minecraft-map-indir/' class='tag-link-1808 tag-link-position-33' title='88 konu' style='font-size: 16.0980392157pt;'>minecraft map indir</a>
+<a href='http://mineturk.com/tag/minecraft-mapleri/' class='tag-link-730 tag-link-position-34' title='33 konu' style='font-size: 10.3333333333pt;'>minecraft mapleri</a>
+<a href='http://mineturk.com/tag/minecraft-mod-indir/' class='tag-link-1740 tag-link-position-35' title='27 konu' style='font-size: 9.23529411765pt;'>minecraft mod indir</a>
+<a href='http://mineturk.com/tag/minecraft-modlari-2/' class='tag-link-710 tag-link-position-36' title='194 konu' style='font-size: 20.7647058824pt;'>minecraft modları</a>
+<a href='http://mineturk.com/tag/minecraft-skin-2/' class='tag-link-858 tag-link-position-37' title='40 konu' style='font-size: 11.431372549pt;'>minecraft skin</a>
+<a href='http://mineturk.com/tag/mod/' class='tag-link-30 tag-link-position-38' title='241 konu' style='font-size: 22pt;'>mod</a>
+<a href='http://mineturk.com/tag/parkur-haritasi/' class='tag-link-680 tag-link-position-39' title='88 konu' style='font-size: 16.0980392157pt;'>parkur haritası</a>
+<a href='http://mineturk.com/tag/rehber/' class='tag-link-9 tag-link-position-40' title='27 konu' style='font-size: 9.23529411765pt;'>rehber</a>
+<a href='http://mineturk.com/tag/resource-pack/' class='tag-link-167 tag-link-position-41' title='60 konu' style='font-size: 13.9019607843pt;'>resource pack</a>
+<a href='http://mineturk.com/tag/texture/' class='tag-link-39 tag-link-position-42' title='83 konu' style='font-size: 15.6862745098pt;'>texture</a>
+<a href='http://mineturk.com/tag/turkce-harita/' class='tag-link-782 tag-link-position-43' title='22 konu' style='font-size: 8pt;'>türkçe harita</a>
+<a href='http://mineturk.com/tag/turkce-minecraft-haritasi/' class='tag-link-1051 tag-link-position-44' title='154 konu' style='font-size: 19.3921568627pt;'>türkçe minecraft haritası</a>
+<a href='http://mineturk.com/tag/turkce-minecraft-modlari/' class='tag-link-1134 tag-link-position-45' title='23 konu' style='font-size: 8.27450980392pt;'>türkçe minecraft modları</a></div>
+</div><!-- END .footer-left -->
+</div>
+		    <!-- BEGIN .footer-center -->
+<div class="footer-center">
+    <div id="categories-3" class="widget widget_categories"><h3 class="widget-title"><span>Kategoriler</span></h3>		<ul>
+	<li class="cat-item cat-item-2205"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-10-modlari/" >Minecraft 1.10 Modları</a>
+</li>
+	<li class="cat-item cat-item-2221"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-10-2-modlari/" >Minecraft 1.10.2 Modları</a>
+</li>
+	<li class="cat-item cat-item-2270"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-11-modlari/" >Minecraft 1.11 Modları</a>
+</li>
+	<li class="cat-item cat-item-2300"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-11-2-modlari/" >Minecraft 1.11.2 Modları</a>
+</li>
+	<li class="cat-item cat-item-482"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-6-4-modlari/" title="Minecraft&#039;ın en çok kullanılan sürümlerinden biri olan 1.6.4 için modlar burada.">Minecraft 1.6.4 Modları</a>
+</li>
+	<li class="cat-item cat-item-975"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-7-10-modlari/" >Minecraft 1.7.10 Modları</a>
+</li>
+	<li class="cat-item cat-item-481"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-7-2-modlari/" title="Minecraft 1.7.2 sürümü için tüm modlar buradaki kategoride.">Minecraft 1.7.2 Modları</a>
+</li>
+	<li class="cat-item cat-item-1430"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-8-modlari/" >Minecraft 1.8 Modları</a>
+</li>
+	<li class="cat-item cat-item-2019"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-8-8-modlari/" >Minecraft 1.8.8 Modları</a>
+</li>
+	<li class="cat-item cat-item-2020"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-8-9-modlari/" >Minecraft 1.8.9 Modları</a>
+</li>
+	<li class="cat-item cat-item-2076"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-9-modlari/" title="Minecraft 1.9 modlarını bu başlık altında bulabilirsiniz. En son çıkan minecraft 1.9 modlarını buradan indirebilirsiniz.">Minecraft 1.9 Modları</a>
+</li>
+	<li class="cat-item cat-item-2178"><a href="http://mineturk.com/minecraft-modlari/minecraft-1-9-4-modlari/" >Minecraft 1.9.4 Modları</a>
+</li>
+	<li class="cat-item cat-item-114"><a href="http://mineturk.com/minecraft-araclari/" >Minecraft Araçları</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://mineturk.com/minecraft-doku-paketleri/" >Minecraft Doku Paketleri</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://mineturk.com/minecraft-haberleri/" >Minecraft Haberleri</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://mineturk.com/minecraft-haritalari/" >Minecraft Haritaları</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="http://mineturk.com/minecraft-kaynak-paketleri/" title="Minecraft&#039;ta dokuları, sesleri ve müzikleri değiştiren kaynak paketleri sadece mineturk.com&#039;da...">Minecraft Kaynak Paketleri</a>
+</li>
+	<li class="cat-item cat-item-1966"><a href="http://mineturk.com/minecraft-komutlari/" >Minecraft Komutları</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://mineturk.com/minecraft-modlari/" >Minecraft Modları</a>
+</li>
+	<li class="cat-item cat-item-857"><a href="http://mineturk.com/minecraft-skin/" title="Minecraft&#039;ta görünümüzü değiştirmenizi sağlayan Skinleri buradan ücretsiz indirebilirsiniz.">Minecraft Skinleri</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://mineturk.com/minecraft-videolari/" >Minecraft Videoları</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://mineturk.com/nasil-yapilir/" >Nasıl Yapılır</a>
+</li>
+		</ul>
+</div><!-- END .footer-center -->
+</div>
+		    <!-- BEGIN .footer-right -->
+<div class="footer-right">
+    <div id="text-2" class="widget widget_text">			<div class="textwidget">Mineturk.com herhangi bir şekilde Mojang ile bağlantılı değildir. Mineturk.com is not affiliated with Minecraft or Mojang in any way.<br />
+<br />
+<div align="right">
+<a href="http://feeds.feedburner.com/Mineturkcom"><img src="http://feeds.feedburner.com/~fc/Mineturkcom?bg=000000&amp;fg=FFCC00&amp;anim=1" height="26" width="88" style="border:0" alt="" /></a><br />
+<!-- Sayyac counter START v4.3 -->
+<script type="text/javascript">
+<!--
+document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://" : "http://")
+ + "srv.sayyac.net/sa.js?_salogin=m.mineturkcom&_sav=4.3' type='text/javascript'%3E%3C/script%3E"));
+//-->
+</script>
+<script type="text/javascript">
+<!--
+sayyac.track('m.mineturkcom','srv.sayyac.net');
+//-->
+</script>
+<noscript><a href="http://www.sayyac.com/" title=""><img src="http://srv.sayyac.net/sa.gif?_salogin=m.mineturkcom&amp;_sav=4.3" border="0" alt="" /></a></noscript>
+<!-- Sayyac counter END v4.3 -->
+<br/>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-50090400-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<br />
+</div></div>
+		</div><!-- END .footer-right -->
+</div>
+		<!-- END #footer -->
+		</div>
+
+
+<!-- YUKS -->
+<div id="header" class="clearfix">
+            <div class="copyright">
+                <p>&copy; 2017 <a href="http://m.mineturk.com">Mineturk.com &#8211; Minecraft Modları &#8211; Kaynak Paketleri &#8211; Minecraft indir</a></p>
+		<p>&nbsp;</p>
+            </div>
+		<!-- BEGIN #secondary-nav -->
+    		<div id="secondary-nav">
+    			    			<ul id="menu-alt-sol-menu" class="menu"><li id="menu-item-1677" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1677"><a href="http://m.mineturk.com">Ana Sayfa</a></li>
+<li id="menu-item-10147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10147"><a href="http://m.mineturk.com/editor-yazar-alimlari/">Editör Ol</a></li>
+<li id="menu-item-1673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673"><a href="http://m.mineturk.com/kullanim-sartlari/">Kullanım Şartları</a></li>
+<li id="menu-item-1674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674"><a href="http://m.mineturk.com/gizlilik-politikasi/">Gizlilik Politikası</a></li>
+<li id="menu-item-1676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1676"><a href="http://m.mineturk.com/iletisim/">İletişim &#8211; Contact</a></li>
+</ul>    			    		<!-- END #secondary-nav -->
+    		</div>
+</div>
+<!-- /YUKS -->
+		
+		
+	<!-- END #container -->
+	</div> 
+
+	<!-- Theme Hook -->
+	<!-- Powered by WPtouch: 4.3.17 --><!-- r10 -->
+<input name="FTLMTA1NjU=" type="hidden" /></input>
+<!-- /r10 -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20802889 = new Ya.Metrika({id:20802889,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20802889" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script type='text/javascript' src='http://cdn.mineturk.com/wp-content/themes/scope/js/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://cdn.mineturk.com/wp-content/themes/scope/js/slides.min.jquery.js?ver=1.1.9'></script>
+<script type='text/javascript' src='http://cdn.mineturk.com/wp-content/themes/scope/js/jquery.isotope.min.js?ver=1.5.03'></script>
+<script type='text/javascript' src='http://cdn.mineturk.com/wp-content/themes/scope/js/jquery.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://m.mineturk.com/wp-includes/js/comment-reply.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://m.mineturk.com/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+			
+<!--END body-->
+</body>
+<!--END html-->
+
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+Content Delivery Network via cdn.m.mineturk.com
+Database Caching 4/129 queries in 0.081 seconds using disk
+
+ Served from: m.mineturk.com @ 2017-05-22 23:17:04 by W3 Total Cache -->
